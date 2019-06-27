@@ -9,3 +9,6 @@ There was no safe autoclicker I could find so i compiled sombody elses code to m
 
 Need help? Leave a issue ticket or DM me on discord at 1333481#1679
 
+
+There will propbably never be an update unless there is a bug
+
